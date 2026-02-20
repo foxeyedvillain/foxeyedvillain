@@ -1,16 +1,26 @@
 ## Hi there 👋
+# Hi 👋, I'm Mohan Singh
 
-<!--
-**foxeyedvillain/foxeyedvillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 I am a student / developer
+- 🌱 Currently learning: Your Technology
+- 💻 Interested in: Web Development / AI / etc
+- 📫 How to reach me: your@email.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python, JavaScript, C++
+- Web: HTML, CSS, React
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+⭐️ Thanks for visiting my profile!
+
+
