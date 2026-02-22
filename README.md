@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student | Web Developer | Problem Solver
 
-<img align="right" alt="Coding" width="300" src="https://drive.google.com/file/d/1R-JP16JcxkTdV6DnhyL9ssgEhWAn9r1-/view?usp=drive_link">
+<img align="right" alt="Profile" width="300" src="https://drive.google.com/drive/folders/1GVVrZBOy9XBIrx8BxIuc43P-vyIHPKDG?usp=sharing>
 
 ---
 
