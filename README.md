@@ -2,10 +2,6 @@
 
 ### 💻 Computer Science Student | Web Developer | Problem Solver
 
-<img align="right" alt="Profile" width="300" src="https://drive.google.com/drive/folders/1GVVrZBOy9XBIrx8BxIuc43P-vyIHPKDG?usp=sharing>
-
----
-
 ## 🚀 About Me
 - 🎓 CSE Student
 - 🌱 Currently learning React & Backend Development
